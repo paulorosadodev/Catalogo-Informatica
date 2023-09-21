@@ -1,0 +1,44 @@
+#logo {
+    width: 400px;
+}
+
+#background {
+    background-color: #181717;
+}
+
+h1{
+    color: #fff;
+    font-family: 'calibri';
+    src: url('calibri.ttf');
+    font-size: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+table td {
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 15px;
+    color: #151414;
+}
+
+table th {
+    border: 2px solid black;
+    background: #1a1a1a;
+    font-family: 'calibri';
+    src: url(fonts\CALIBRI.TTF);
+    color: #fff;
+}
+
+img {
+    width: 150px;
+}
+
+input[type="submit"]{
+    background-color: #ffe600;
+    cursor: pointer;
+    color: #000000;
+}
